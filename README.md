@@ -14,8 +14,8 @@ The Logistic Regression model achieved higher recall for detecting fraudulent tr
 
 | Name         | URL                         |
 |--------------|-----------------------------|
-| Gradio App   | [Hugging Face Space (optional)](https://huggingface.co/spaces/groebmic/FraudPrediction) |
-| Code         | GitHub Repository           |
+| Gradio App   | [Hugging Face Space](https://huggingface.co/spaces/groebmic/FraudPrediction) |
+| Code         | [GitHub Repository](https://github.com/groebmic/FraudDetection/)           |
 
 ---
 
