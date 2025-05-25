@@ -72,14 +72,12 @@ The Logistic Regression model achieved higher recall for detecting fraudulent tr
 
 The Gradio web interface (`app.py`) allows users to:
 
-- Select the model (Random Forest or Logistic Regression)
 - Input:
   - `amt` (Transaction amount)
   - `is_holiday` (0 or 1)
 - Output:
   - Fraud prediction (yes/no)
-  - Confidence probability
-
+  - 
 To run locally:
 
 ```bash
